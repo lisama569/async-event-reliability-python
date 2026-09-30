@@ -7,3 +7,6 @@ __pycache__/
 dist/
 build/
 *.egg-info/
+
+# local runtime data (SQLite broker/state + failure spec)
+data/
