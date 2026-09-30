@@ -7,3 +7,10 @@ __pycache__/
 dist/
 build/
 *.egg-info/
+
+# 本地事件数据库（SQLite / WAL）
+data/
+*.db
+*.db-wal
+*.db-shm
+server.log
